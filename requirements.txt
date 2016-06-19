@@ -1,0 +1,4 @@
+adafruit-io==1.1.0
+paho-mqtt==1.2
+psutil==4.3.0
+requests==2.10.0
